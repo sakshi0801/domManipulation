@@ -1,0 +1,11 @@
+
+
+#app {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#app >  div {
+    height: 30%;
+    width: 30%;
+}
